@@ -1,15 +1,12 @@
 package com.mkurbanov.kfurate.ui.home
 
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.fragment.app.Fragment
 import coil.load
 import com.google.android.material.snackbar.Snackbar
-import com.mkurbanov.kfurate.data.config.LOG_TAG
 import com.mkurbanov.kfurate.data.config.TOKEN
 import com.mkurbanov.kfurate.data.network.ApiHelper
 import com.mkurbanov.kfurate.data.network.RetrofitBuilder
@@ -53,8 +50,8 @@ class HomeFragment : Fragment() {
                 progressBar.visibility = View.GONE
             }
 
-            var link1: String = it.students[0].image + width / 2 + "x" + height / 3
-            var link2: String = it.students[1].image + width / 2 + "x" + height / 3
+            val link1: String = it.students[0].image + width / 2 + "x" + height / 3
+            val link2: String = it.students[1].image + width / 2 + "x" + height / 3
 
             binding.imageView.load(link1) {
                 crossfade(true)

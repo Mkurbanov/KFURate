@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.mkurbanov.kfurate.R
+import com.mkurbanov.kfurate.data.config
 import com.mkurbanov.kfurate.data.local.UserPreferencesRepository
 import com.mkurbanov.kfurate.dataStore
 import com.mkurbanov.kfurate.ui.MainActivity
@@ -23,7 +24,10 @@ class SplashActivity : AppCompatActivity() {
 
                 if (it.phone.isEmpty())
                     startActivity(Intent(this@SplashActivity, LoginActivity::class.java))
-                else startActivity(Intent(this@SplashActivity, MainActivity::class.java))
+                else {
+                    config.TOKEN = it.token
+                    startActivity(Intent(this@SplashActivity, MainActivity::class.java))
+                }
 
                 this@SplashActivity.finish()
             }
