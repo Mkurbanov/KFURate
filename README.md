@@ -1,11 +1,10 @@
 # KFURate
 ![KFURate](app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp)
-Application for students of Kazan Federal University
 
 
-![KFURate](Screenshot_20231110_205147.png)
-![KFURate](Screenshot_20231110_205324.png)
-![KFURate](Screenshot_20231110_205433.png)
+<img src="Screenshot_20231110_205147.png" width=50% height=50%><img src="Screenshot_20231110_205324.png" width=50% height=50%><img src="Screenshot_20231110_205433.png" width=50% height=50%>
+
+
 
 ## Developed with:
 * Kotlin
