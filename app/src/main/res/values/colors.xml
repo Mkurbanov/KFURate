@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FEDBD0</color>
+    <color name="colorPrimaryVariant">#FEDBD0</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">@color/colorPrimary</color>
+    <color name="colorSecondaryVariant">@color/colorPrimaryVariant</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorSurface">@color/colorPrimary</color>
+    <color name="colorOnSurface">@color/colorPrimary</color>
+
+
+
+
+    <color name="colorBackground">#FFFBFE</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="colorBackgroundDarker">#F4F4F4</color>
+
+
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#00897B</color>
+    <color name="red">#F84959</color>
+    <color name="blue_boy">#81D9FD</color>
+    <color name="pink">#FF99D8</color>
+</resources>

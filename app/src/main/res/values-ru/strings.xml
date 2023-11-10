@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KFU Which</string>
+    <string name="title_home">Главная</string>
+    <string name="top">лучшие</string>
+    <string name="field_is_empty">Поле пусто</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="name">Имя</string>
+    <string name="code">код</string>
+    <string name="confirm">Подтверждать</string>
+    <string name="verif_code_invalid">Введенный код подтверждения недействителен</string>
+    <string name="verif_code_senden">Код подтверждения отправлен</string>
+    <string name="error">Ошибка</string>
+    <string name="good">Хорошо</string>
+    <string name="find_yourself">Найти себя</string>
+    <string name="function_available_in_premium">Эта функция доступна в премиум</string>
+    <string name="which">Выбери</string>
+    <string name="premium">Премиум</string>
+    <string name="premium_message">* искать студентов \n
+* посмотреть кто вас выбрал \n
+* посмотреть ты от кого лучше \n
+* получить телефон номер студента \n
+* получить телефон номер студента который поставил много раз нравится</string>
+    <string name="buy">Купить</string>
+    <string name="no_thanks">Нет, спасибо</string>
+    <string name="send_mail">Отправить письмо…</string>
+    <string name="i_want_buy_premium">хочу купить премиум. Мой номер:%1$s</string>
+</resources>

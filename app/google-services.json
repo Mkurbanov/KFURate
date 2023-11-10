@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122862820666",
+    "project_id": "kfu-which",
+    "storage_bucket": "kfu-which.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122862820666:android:82daa409544879fd0e8403",
+        "android_client_info": {
+          "package_name": "com.mkurbanov.kfurate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzw0Fe9IX13Vn-ddXJE0Wcv6cw3YdiFGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KFU Which</string>
+    <string name="title_home">Home</string>
+    <string name="top">Top</string>
+    <string name="field_is_empty">Field is empty</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="code">code</string>
+    <string name="confirm">Confirm</string>
+    <string name="verif_code_invalid">Verification code entered was invalid</string>
+    <string name="verif_code_senden">Verification code was sended</string>
+    <string name="error">Error</string>
+    <string name="good">Good</string>
+    <string name="find_yourself">Find yourself</string>
+    <string name="function_available_in_premium">This feature is available in premium</string>
+    <string name="which">Which</string>
+    <string name="premium">Premium</string>
+    <string name="premium_message">* search for students \n
+* see who chose you \n
+* see who is better from you \n
+* get student phone number \n
+* get the phone number of a student who liked you many times</string>
+    <string name="buy">Buy</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="send_mail">Send mail…</string>
+    <string name="i_want_buy_premium">I want to buy premium. My number is:%1$s</string>
+</resources>
