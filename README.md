@@ -1,4 +1,6 @@
 # KFURate
+All students of Kazan Federal university in one app ❤️
+
 ![KFURate](app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp)
 
 
